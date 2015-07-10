@@ -9,18 +9,17 @@ relative_permalinks: true
 # Setup
 title:            snippets.d
 tagline:          'lost in code'
-description:      ''
+description:      'Karl writes about code'
 url:              http://derfian.github.io
 baseurl:          /
 
 author:
   name:           'Karl Mikaelsson'
+  email:          derfian@lysator.liu.se
   url:            https://twitter.com/derfian
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
 github:
   repo:           https://github.com/derfian/derfian.github.io

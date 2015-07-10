@@ -3,10 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## ...the author
 
-## Setup
+Karl Mikaelsson is a [software developer](https://github.com/derfian).
 
-Thanks for reading!
+## ...the blog
+
+Built with [jekyll](http://jekyllrb.org) and
+[hyde](https://github.com/poole/hyde). Hosted by [GitHub Pages](https://pages.github.com).

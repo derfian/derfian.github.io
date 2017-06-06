@@ -7,8 +7,8 @@ The Techart TA-GA3 is a lens adapter made to fit the Sony NEX or
 α-series mirrorless cameras. It allows you to mount lenses made for
 Contax G, and the adapter includes its own autofocusing system for
 these lenses. Techart offers firmware updates to this adapter via an
-(Android)[https://play.google.com/store/apps/details?id=com.techart.updateall]
-and (iOS)[https://itunes.apple.com/us/app/techart-update/id972383385]
+[Android](https://play.google.com/store/apps/details?id=com.techart.updateall)
+and [iOS](https://itunes.apple.com/us/app/techart-update/id972383385)
 app called TECHART Update. The app communicates with the adapter via
 Bluetooth.
 
@@ -53,7 +53,7 @@ identifies itself as a *EOS-iNEX II*?
 My first idea was to reverse engineer the TECHART Update app and patch
 it to allow it to patch any device with any firmware. I started
 looking at Techart Update app and I found the string
-[http://www.techart-logic.com/g-nex/firmware/firmware.txt]. This CSV
+http://www.techart-logic.com/g-nex/firmware/firmware.txt. This CSV
 file contains a list of firmwares for different models of lens
 adapters. The fields in the file were adapter, description, url,
 unknown.
